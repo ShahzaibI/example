@@ -9,6 +9,7 @@ public class LabTask2_1
             System.out.println(i);
             i++;
         }while(i<=10);
+        System.out.println("Loop Done!");
     }
     
 }
